@@ -1,0 +1,106 @@
+{
+  "id": "andteam",
+  "name": "&TEAM",
+  "image": "assets/groups/andteam.svg",
+  "description": "Official fan chant collection",
+  "albums": [
+    {
+      "id": "mark-on-me-ep",
+      "title": "&TEAM KR 2nd Mini Album 'Mark on Me'",
+      "cover": "assets/albums/mark-on-me.svg",
+      "songIds": [
+        "mark-on-me",
+        "good-boy",
+        "love-jang"
+      ],
+      "officialSource": "https://www.andteam-official.jp/discography/1affd625347f"
+    },
+    {
+      "id": "we-on-fire-ep",
+      "title": "We on Fire",
+      "cover": "assets/albums/we-on-fire.svg",
+      "songIds": [
+        "we-on-fire"
+      ],
+      "officialSource": "https://www.andteam-official.jp/discography/7f97d047e0d5"
+    },
+    {
+      "id": "go-in-blind-single",
+      "title": "Go in Blind (月狼)",
+      "cover": "assets/albums/go-in-blind.svg",
+      "songIds": [
+        "run-wild"
+      ],
+      "officialSource": "https://www.andteam-official.jp/discography/xowugm"
+    },
+    {
+      "id": "yukiakari-album",
+      "title": "雪明かり (Yukiakari)",
+      "cover": "assets/albums/yukiakari.svg",
+      "songIds": [
+        "deer-hunter"
+      ],
+      "officialSource": "https://www.andteam-official.jp/discography/ysthst"
+    },
+    {
+      "id": "back-to-life-ep",
+      "title": "&TEAM KR 1st Mini Album 'Back to Life'",
+      "cover": "assets/albums/back-to-life.svg",
+      "songIds": [
+        "rush",
+        "back-to-life"
+      ],
+      "officialSource": "https://www.andteam-official.jp/discography/cpbxev"
+    }
+  ],
+  "songs": [
+    {
+      "id": "mark-on-me",
+      "title": "Mark on Me",
+      "albumId": "mark-on-me-ep",
+      "officialSource": "https://www.andteam-official.jp/fanchant/e29a8a553dfc"
+    },
+    {
+      "id": "good-boy",
+      "title": "Good Boy",
+      "albumId": "mark-on-me-ep",
+      "officialSource": "https://www.weverse.io/andteam/media"
+    },
+    {
+      "id": "love-jang",
+      "title": "Love Jang",
+      "albumId": "mark-on-me-ep",
+      "officialSource": "https://www.weverse.io/andteam/media"
+    },
+    {
+      "id": "we-on-fire",
+      "title": "We on Fire",
+      "albumId": "we-on-fire-ep",
+      "officialSource": "https://www.andteam-official.jp/fanchant/408e5d1f624a"
+    },
+    {
+      "id": "run-wild",
+      "title": "Run Wild",
+      "albumId": "go-in-blind-single",
+      "officialSource": "https://www.andteam-official.jp/fanchant/268c43d4160c"
+    },
+    {
+      "id": "deer-hunter",
+      "title": "Deer Hunter",
+      "albumId": "yukiakari-album",
+      "officialSource": "https://www.andteam-official.jp/fanchant/af665ba80ece"
+    },
+    {
+      "id": "rush",
+      "title": "Rush",
+      "albumId": "back-to-life-ep",
+      "officialSource": "https://www.andteam-official.jp/fanchant/5e11d2aa7e74"
+    },
+    {
+      "id": "back-to-life",
+      "title": "Back to Life",
+      "albumId": "back-to-life-ep",
+      "officialSource": "https://www.andteam-official.jp/fanchant/745d03ae457f"
+    }
+  ]
+}
